@@ -34,7 +34,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse-code-decoder <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
 In this project, you have the capability to input any Morse Code message and receive a decoded English message in return.
 ## 🛠 Built With <a name="built-with"></a>
@@ -49,7 +49,8 @@ In this project, you have the capability to input any Morse Code message and rec
 
 > Key features of this application.
 
-- **[Decode Morse Code Messages]**
+- **[Ruby classes]**
+- **[Block and yields]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +143,7 @@ For deployment, you can use GitHub pages.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Felipe-Perez-Ferraro/Decode_Morse_Code/issues).
+Feel free to check the [issues page](https://github.com/ulises2607/Enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
