@@ -14,5 +14,4 @@ module MyEnumerable
     each { |el| result << el if block.call(el) }
     result
   end 
-
 end
