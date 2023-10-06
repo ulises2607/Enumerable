@@ -4,7 +4,7 @@
 <div align="center">
 
 
-  <h1><b>Morse Code decoder</b></h1>
+  <h1><b>Enumerable</b></h1>
 
 </div>
 
